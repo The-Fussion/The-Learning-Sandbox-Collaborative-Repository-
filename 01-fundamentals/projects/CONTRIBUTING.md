@@ -107,7 +107,7 @@ Create a game where a player moves through rooms:
 - Calculate GPA  
 - Find the top 3 students  
 - Identify students failing more than 2 subjects  
-- Automatically export a **Report Card** text file for every student  
+- Automatically export a **Report Card** text file for every student
 
 ```
 projects/
